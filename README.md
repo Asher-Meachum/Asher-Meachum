@@ -9,9 +9,3 @@ I am Asher Bernstein-Meachum, a (Micro)Python developer (for now). I like many t
 
 ## Where You Can Find Me
 Website: [asher-meachum.github.io](https://asher-meachum.github.io/)
-
-## Stats
-Just for funzies:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asher-Meachum)](https://github.com/anuraghazra/github-readme-stats)
-<!-- For when I have non-Python stuff ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asher-Meachum&layout=compact) -->
